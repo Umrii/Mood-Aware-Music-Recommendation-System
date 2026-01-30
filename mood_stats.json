@@ -1,0 +1,122 @@
+{
+  "Melancholic": {
+    "count": 11435,
+    "avg_valence": 0.13478504801923918,
+    "avg_energy": 0.1368657074420638,
+    "avg_danceability": 0.26106442501093136,
+    "avg_acousticness": 0.8658466604048972,
+    "avg_tempo": 92.92129094884127,
+    "popular_artists": {
+      "Johann Sebastian Bach": 1794,
+      "Wolfgang Amadeus Mozart": 764,
+      "Ludwig van Beethoven": 630,
+      "Fr\u00e9d\u00e9ric Chopin": 503,
+      "Claude Debussy": 418
+    }
+  },
+  "Sad": {
+    "count": 25036,
+    "avg_valence": 0.29936780995366674,
+    "avg_energy": 0.6713269971241412,
+    "avg_danceability": 0.5971592786387602,
+    "avg_acousticness": 0.11842399347100177,
+    "avg_tempo": 112.19927764019812,
+    "popular_artists": {
+      "Armin van Buuren": 184,
+      "Waka Flocka Flame": 84,
+      "Above & Beyond": 71,
+      "Chief Keef": 41,
+      "R.E.M.": 33
+    }
+  },
+  "Anxious": {
+    "count": 15662,
+    "avg_valence": 0.33982984612437744,
+    "avg_energy": 0.32513013216702846,
+    "avg_danceability": 0.5092221427659303,
+    "avg_acousticness": 0.745158536437875,
+    "avg_tempo": 112.89323694291916,
+    "popular_artists": {
+      "Johann Sebastian Bach": 942,
+      "Wolfgang Amadeus Mozart": 471,
+      "Duo Libano": 172,
+      "Antonio Vivaldi": 91,
+      "Ludwig van Beethoven": 83
+    }
+  },
+  "Angry": {
+    "count": 13771,
+    "avg_valence": 0.3862365691307821,
+    "avg_energy": 0.7077402730375426,
+    "avg_danceability": 0.5927989252777576,
+    "avg_acousticness": 0.0897529373792753,
+    "avg_tempo": 125.71177779391475,
+    "popular_artists": {
+      "Image Sounds": 215,
+      "Ron Komie": 119,
+      "Armin van Buuren": 83,
+      "Rain Sounds": 70,
+      "J3 EDC": 64
+    }
+  },
+  "Calm": {
+    "count": 8047,
+    "avg_valence": 0.44433209804896234,
+    "avg_energy": 0.2853552596495589,
+    "avg_danceability": 0.542280427488505,
+    "avg_acousticness": 0.803875663800174,
+    "avg_tempo": 120.02580514477447,
+    "popular_artists": {
+      "Johann Sebastian Bach": 847,
+      "Wolfgang Amadeus Mozart": 395,
+      "Ludwig van Beethoven": 213,
+      "Fr\u00e9d\u00e9ric Chopin": 106,
+      "Antonio Vivaldi": 64
+    }
+  },
+  "Peaceful": {
+    "count": 15178,
+    "avg_valence": 0.4948034062458822,
+    "avg_energy": 0.591080406707076,
+    "avg_danceability": 0.6956537093161155,
+    "avg_acousticness": 0.2681644442146528,
+    "avg_tempo": 119.06650342601132,
+    "popular_artists": {
+      "Armin van Buuren": 549,
+      "Wolfgang Amadeus Mozart": 118,
+      "Waka Flocka Flame": 86,
+      "Above & Beyond": 83,
+      "DJ Fuqua": 83
+    }
+  },
+  "Happy": {
+    "count": 15810,
+    "avg_valence": 0.505026541429475,
+    "avg_energy": 0.7492663504111322,
+    "avg_danceability": 0.519646679316888,
+    "avg_acousticness": 0.1471964029841872,
+    "avg_tempo": 161.62049095509173,
+    "popular_artists": {
+      "Armin van Buuren": 201,
+      "Los Cadetes De Linares": 65,
+      "Waka Flocka Flame": 46,
+      "ASIAN KUNG-FU GENERATION": 28,
+      "Chief Keef": 23
+    }
+  },
+  "Euphoric": {
+    "count": 25386,
+    "avg_valence": 0.7307633735129598,
+    "avg_energy": 0.7030820357677459,
+    "avg_danceability": 0.7306911289687228,
+    "avg_acousticness": 0.23685524803041047,
+    "avg_tempo": 113.07667568738675,
+    "popular_artists": {
+      "Los Cadetes De Linares": 188,
+      "Armin van Buuren": 101,
+      "Waka Flocka Flame": 56,
+      "\u041a\u0438\u043d\u043e": 56,
+      "Duo Libano": 53
+    }
+  }
+}
